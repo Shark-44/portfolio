@@ -16,6 +16,7 @@ import pageperso from './assets/image/pageperso.png';
 import alterworld from "./assets/image/alterworld.png";
 import recrea2 from "./assets/image/recrea2.png";
 import chaser from "./assets/image/jeu_chaser.png"
+import angular from "./assets/image/Angular.png"
 
 import { useState } from 'react';
 
@@ -125,7 +126,7 @@ function App() {
           <a href="https://typescript-react-swart.vercel.app/" >lien</a>
           <a href="https://github.com/Shark-44/Typescript-react" target="_blank">GitHub</a>
         </div>
-        <img className="screen" src={recrea2} alt="monkey" />     
+        <img className="screen" src={recrea2} alt="recréA2" />     
       </div>
       <div className="card">
         <div className="circle"></div>
@@ -136,6 +137,16 @@ function App() {
           <a href="https://github.com/Shark-44/clone-Chase-HQ" target="_blank">GitHub</a>
         </div>
         <img className="screen" src={chaser} alt="chase" />     
+      </div>
+      <div className="card">
+        <div className="circle"></div>
+        <div className="content">
+          <h4>S-B / Angular</h4>
+          <p>Pour m'initier et comprendre les fonctionnalités. Sur un serveur maison, dont le lien peut être demandé</p>
+          <a>lien sur demande</a>
+          <a href="https://github.com/Shark-44/1erbackendJava" target="_blank">GitHub</a>
+        </div>
+        <img className="screen" src={angular} alt="angular" />     
       </div>
       </div>
       <div id="contact">
