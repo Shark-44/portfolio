@@ -50,7 +50,7 @@ function App() {
             onMouseOut={() => setOver2(false)} alt="linkedin" /></a>
             <a href="mailto:joanny.bernardeau@gmail.com?subject=Sujet du message"><img className="icone" src={over3 ? mailwh : mail} onMouseOver={() => setOver3(true)}
             onMouseOut={() => setOver3(false)} alt="mail" /></a>
-            <a href="https://1drv.ms/b/c/f1d07a223c005096/EaTPToTHVwdDl_Keqy21epUB16an95T-8uxqIlw092BUEg?e=52qJkg" target="_blank"><img className="icone" src={over4 ? CVwh : CV} onMouseOver={() => setOver4(true)}
+            <a href="https://1drv.ms/b/c/f1d07a223c005096/EVTzHH0cyEVPuXLMhVd86CMBR6NLkFTcvtMVYPaWzORi-g?e=n8Rr2u" target="_blank"><img className="icone" src={over4 ? CVwh : CV} onMouseOver={() => setOver4(true)}
             onMouseOut={() => setOver4(false)} alt="cv" /></a>
             </div> 
             <p>Dans un projet de reconversion, je suis passé par un bootcamp.<br /> Aujourd&apos;hui je recherche une entreprise pour un titre de Concepteur Développeur d&apos;Applications  en alternance<br /> Les langages que j&apos;ai étudié sont Javascript, React et Node.js, et je continue à apprendre le php et Symfony</p>
